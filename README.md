@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathurgini-uthayakumar-895b79265)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@susathu2000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website-link-here.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website-link-here.com)
 
 </div>
 ---
