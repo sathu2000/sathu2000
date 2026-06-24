@@ -7,11 +7,10 @@
 *Building at the intersection of machine learning research and full-stack engineering*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathurgini-uthayakumar-895b79265)
-[![GitHub followers](https://img.shields.io/github/followers/sathu2000?style=for-the-badge&color=6e40c9&labelColor=1a1a2e)](https://github.com/sathu2000)
-[![Profile views](https://komarev.com/ghpvc/?username=sathu2000&style=for-the-badge&color=6e40c9)](https://github.com/sathu2000)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@susathu2000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website-link-here.com)
 
 </div>
-
 ---
 
 ## About me
@@ -21,8 +20,6 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 - 🔬 Actively contributing to **MPhil-level research** in explainable time-series forecasting and panel data imputation
 - 🏫 Batch 20, Faculty of Engineering, University of Moratuwa
 - 🌐 Interested in: ML research · Data Engineering · Mobile & Web Apps Development
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sathurgini-uthayakumar-895b79265)
-- Read my articles &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@susathu2000)
 
 ---
 
