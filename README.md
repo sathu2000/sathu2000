@@ -49,13 +49,17 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 ## Featured projects
 
 ### 🔬 Research
-
+ 
 | Repository | Description | Tech |
 |---|---|---|
 | [Explainable\_TS\_Forecast\_Framework](https://github.com/sathu2000/Explainable_TS_Forecast_Framework) | Explainable AI framework for time-series forecasting — MPhil research project | `Python` `PyTorch` `XAI` |
+| [MPhil-main](https://github.com/sathu2000/MPhil-main) | Core MPhil research codebase — panel forecasting and model evaluation | `Python` |
+| [Panelformer](https://github.com/aaivu/Panelformer) | Transformer-based model for panel data forecasting | `Python` `PyTorch` `Transformers` |
+| [GWAS-MTL](https://github.com/Luxshan2000/GWAS-MTL) | Multi-task learning for genome-wide association studies | `Python` `ML` `Bioinformatics` |
 | [Panel-Impute](https://github.com/sathu2000/Panel-Impute) | Missing data imputation methods for panel/longitudinal datasets | `Python` `Statistics` |
 | [normalization-benchmark](https://github.com/sathu2000/normalization-benchmark) | Benchmarking normalization strategies across ML pipelines | `Python` `ML` |
-| [MPhil-main](https://github.com/sathu2000/MPhil-main) | Core MPhil research codebase — panel forecasting and model evaluation | `Python` |
+ 
+
 
 ### 💻 Software & Apps
 
@@ -78,8 +82,6 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 ## GitHub stats
 
 <div align="center">
-
-![Sathurgini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathu2000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathu2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
