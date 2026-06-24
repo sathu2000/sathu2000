@@ -19,9 +19,10 @@
 I'm a Computer Science & Engineering undergraduate at the **University of Moratuwa**, Sri Lanka, with a strong focus on **machine learning research**, **time-series forecasting**, and **full-stack software development**. My academic work spans explainable AI, panel data methods, and systems design — and I enjoy building practical tools that solve real problems.
 
 - 🔬 Actively contributing to **MPhil-level research** in explainable time-series forecasting and panel data imputation
-- 🏫 Batch 20, Faculty of IT, University of Moratuwa
-- 🌐 Interested in: ML research · Data Engineering · Mobile & Web Apps · Database Systems
+- 🏫 Batch 20, Faculty of Engineering, University of Moratuwa
+- 🌐 Interested in: ML research · Data Engineering · Mobile & Web Apps Development
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sathurgini-uthayakumar-895b79265)
+- Read my articles &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@susathu2000)
 
 ---
 
@@ -45,7 +46,6 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -94,9 +94,7 @@ I'm a Computer Science & Engineering undergraduate at the **University of Moratu
 
 ## Currently working on
 
-- 📊 Extending the explainable time-series forecasting framework with attention-based interpretability
-- 🗄️ Big Data systems — storage, processing pipelines, and analytics architectures
-- 📚 Deepening knowledge in distributed computing and cloud-native data engineering
+- Extending the explainable time-series forecasting framework with attention-based interpretability
 
 ---
 
